@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Colby Threlkeld
 
-🎓 I'm a Computer Science student at Georgia State University, currently in my sophomore year.  
-💡 I'm passionate about solving real-world problems with software, and I'm actively building my skills in backend systems, machine learning, and full-stack web development.  
-🔍 My interests include Software Engineering, AI/ML, and Data Analysis.  
-📈 I'm always learning and exploring new tools, frameworks, and APIs to build useful, scalable applications.
+I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State University. I’ve applied my skills across a range of data analysis, machine learning, and web development projects. I’m currently looking to launch my career in tech in a role focused on software engineering, AI/ML, or data science, where I can keep learning and contribute to impactful, real-world solutions.
 
 ---
 
@@ -49,7 +46,6 @@
 
 - 📧 Email: [colbymc052@gmail.com](mailto:colbymc052@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
-- 🐙 GitHub: [Colby-Threlkeld](https://github.com/Colby-Threlkeld)
 
 ---
 
