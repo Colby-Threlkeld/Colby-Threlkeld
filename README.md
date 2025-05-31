@@ -1,24 +1,38 @@
 # 👋 Hi, I'm Colby Threlkeld
 
-🎓 I'm a Computer Science student at Georgia State University  
-💡 I’m focused on software engineering, data science, and AI/ML  
-🔧 I’m currently building projects with Python, Flask, and JavaScript  
-📚 Always learning: React, Django, and cloud deployment tools  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
-![Colby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default)
+🎓 I'm a Computer Science student at Georgia State University, currently in my sophomore year.  
+💡 I'm passionate about solving real-world problems with software, and I'm actively building my skills in backend systems, machine learning, and full-stack web development.  
+🔍 My interests include Software Engineering, AI/ML, and Data Analysis.  
+📈 I'm always learning and exploring new tools, frameworks, and APIs to build useful, scalable applications.
 
 ---
 
-### 📫 How to reach me:
-- Email: [your@email.com](mailto:colbymc052@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/colby-threlkeld)
+## 🧠 Technical Skills
+
+- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Frameworks & Tools:** React, Pandas, NumPy, Matplotlib, FastAPI, Scikit-learn, PyTorch  
+- **Development:** Git, GitHub, VS Code, Jupyter, PyCharm, IntelliJ  
+- **Certifications:** SQL (MySQL, SQLite), Python | Pandas, Business and Accounting
+  
+---
+
+## 📚 Clubs & Involvement
+
+- Computer Science Club  
+- Programming Club  
+- Panther Web-Dev Club  
+- AITP (Association of IT Professionals)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [colbymc052@gmail.com](mailto:colbymc052@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
+- 🐙 GitHub: [Colby-Threlkeld](https://github.com/Colby-Threlkeld)
+
+---
+
+### 📈 GitHub Stats 
+```md
+![Colby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default)
