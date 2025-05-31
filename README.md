@@ -49,6 +49,12 @@ I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State 
 
 ---
 
-### 📈 GitHub Stats 
-```md
-![Colby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Colby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default)
+
+---
