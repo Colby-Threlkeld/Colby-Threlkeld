@@ -51,10 +51,20 @@ I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State 
 
 ## 📊 GitHub Stats
 
-![Colby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Colby-Threlkeld&show_icons=true&theme=default" alt="Colby's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="Colby's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default)
 
 ---
