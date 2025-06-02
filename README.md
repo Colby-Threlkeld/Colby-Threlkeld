@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Colby Threlkeld
+# :) Hello, 
 
 I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State University. I’ve applied my skills across a range of data analysis, machine learning, and web development projects. I’m currently looking to launch my career in tech in a role focused on software engineering, AI/ML, or data science, where I can keep learning and contribute to impactful, real-world solutions.
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills -->
 
 ### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State 
   
 ---
 
-## 📚 Clubs & Involvement
+## Clubs & Involvement (@Georgia State University) -->
 
 - Computer Science Club  
 - Programming Club  
@@ -42,14 +42,14 @@ I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State 
 
 ---
 
-## 📫 Contact Me
+## Contact Me -->
 
 - 📧 Email: [colbymc052@gmail.com](mailto:colbymc052@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats -->
 
 <table>
   <tr>
