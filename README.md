@@ -1,6 +1,8 @@
 # Hello, 
 
-I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State University. I’ve applied my skills across a range of different topics including data analysis, machine learning, and web development projects. I’m currently looking to launch my career in tech in a role focused on software engineering, AI/ML, or data science, where I can keep learning and contribute to impactful, real-world solutions.
+I'm Colby Threlkeld, a rising junior studying Computer Science at Georgia State University. I’ve applied my skills across a range of different topics including data analysis, machine learning, and web development projects. I'm looking to launch a career in tech, ideally within a role that would deepen my skills in software engineering, AI/ML, and data science.
+
+I'm looking for challenges that push me to learn quickly, with a process, contributing to something meangingful. If you made it this far, lets connect! 
 
 ---
 
