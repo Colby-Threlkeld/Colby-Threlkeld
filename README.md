@@ -61,7 +61,7 @@ I'm looking for challenges that push me to learn quickly, with a process, contri
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=colby-threlkeld&theme=default" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" />
