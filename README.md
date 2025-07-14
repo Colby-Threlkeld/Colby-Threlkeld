@@ -51,7 +51,7 @@ I'm looking for challenges that push me to learn quickly, with a process, contri
 ## Contact Me -->
 
 - 📧 Email: [colbymc052@gmail.com](mailto:colbymc052@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-USERNAME/) LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
 
 ---
 
