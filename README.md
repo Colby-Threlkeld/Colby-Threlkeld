@@ -63,8 +63,8 @@ I'm looking for challenges that push me to learn quickly, with a process, contri
 <table align="center">
   <tr>
     <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" /><br>
-  <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" 
+      <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" width="450" /><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" width="450" />
     </p>
   </tr>
 </table>
