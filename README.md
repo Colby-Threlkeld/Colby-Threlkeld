@@ -60,9 +60,9 @@ I'm looking for challenges that push me to learn quickly, with a process, contri
 
 ## GitHub Stats -->
 
-<table align="center">
+<table align="left">
   <tr>
-    <p align="center">
+    <p align="left">
       <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" width="450" /><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" width="450" />
     </p>
