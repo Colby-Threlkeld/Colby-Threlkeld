@@ -46,7 +46,6 @@ I'm looking for challenges that push me to learn quickly, with a process, contri
 - Computer Science Club  
 - Programming Club  
 - Panther Web-Dev Club  
-- AITP (Association of IT Professionals)
 
 ---
 
