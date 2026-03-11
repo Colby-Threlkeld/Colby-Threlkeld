@@ -61,7 +61,6 @@ I'm Colby Threlkeld, a junior in college studying Computer Science at Georgia St
   <tr>
     <p align="center">
       <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" width="450" /><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" width="450" />
     </p>
   </tr>
 </table>
