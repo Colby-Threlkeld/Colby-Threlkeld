@@ -36,7 +36,6 @@
 ## Clubs & Involvement (@Georgia State University) -->
 
 - Computer Science Club  
-- Programming Club  
 - Panther Web-Dev Club  
 
 ---
