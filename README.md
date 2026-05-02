@@ -35,6 +35,7 @@
 
 ## Clubs & Involvement (@Georgia State University) -->
 
+- PROGSU (Executive Board)
 - Computer Science Club  
 - Panther Web-Dev Club  
 
