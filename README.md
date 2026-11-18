@@ -12,23 +12,23 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-experience-dark.svg" /><img src="assets/h-experience-light.svg" alt="Experience" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-apple-dark.svg" /><img src="assets/e-apple-light.svg" alt="Apple, Software Engineer Intern, Apple Online Store, Summer 2026" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-apple-dark.svg" /><img src="assets/card-apple-light.svg" alt="Apple, Software Engineer Intern, Apple Online Store, Summer 2026" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-insd-dark.svg" /><img src="assets/e-insd-light.svg" alt="INSD Lab, Georgia State, Research Assistant, Aug 2026 to present" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-insd-dark.svg" /><img src="assets/card-insd-light.svg" alt="INSD Lab, Georgia State, Research Assistant, Aug 2026 to present" /></picture>
 
-<a href="https://wiki.progsu.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-progsu-dark.svg" /><img src="assets/e-progsu-light.svg" alt="Progsu, Director, Georgia State Programming Club, Jan 2026 to present" /></picture></a>
+<a href="https://wiki.progsu.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-progsu-dark.svg" /><img src="assets/card-progsu-light.svg" alt="Progsu, Director, Georgia State Programming Club, Jan 2026 to present" /></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-bgi-dark.svg" /><img src="assets/e-bgi-light.svg" alt="Broadwell Group Inc., Frontend Engineer Intern, Summer 2025" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bgi-dark.svg" /><img src="assets/card-bgi-light.svg" alt="Broadwell Group Inc., Frontend Engineer Intern, Summer 2025" /></picture>
 
 <br />
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects-light.svg" alt="Projects" /></picture>
 
-<a href="https://github.com/Colby-Threlkeld/WC_App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-fan-platform-dark.svg" /><img src="assets/e-fan-platform-light.svg" alt="Global Fan Platform" /></picture></a>
+<a href="https://github.com/Colby-Threlkeld/WC_App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fan-platform-dark.svg" /><img src="assets/card-fan-platform-light.svg" alt="Global Fan Platform" /></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-icarus-dark.svg" /><img src="assets/e-icarus-light.svg" alt="Icarus, Autonomous Drone" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-icarus-dark.svg" /><img src="assets/card-icarus-light.svg" alt="Icarus, Autonomous Drone" /></picture>
 
-<a href="https://github.com/Colby-Threlkeld/FuzzyRec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-fuzzyrec-dark.svg" /><img src="assets/e-fuzzyrec-light.svg" alt="Hybrid Fuzzy Logic Recommender" /></picture></a>
+<a href="https://github.com/Colby-Threlkeld/FuzzyRec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fuzzyrec-dark.svg" /><img src="assets/card-fuzzyrec-light.svg" alt="Hybrid Fuzzy Logic Recommender" /></picture></a>
 
 <br />
 
