@@ -48,12 +48,6 @@
 
 <br />
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-education-dark.svg" /><img src="assets/h-education-light.svg" alt="Education" /></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e-gsu-dark.svg" /><img src="assets/e-gsu-light.svg" alt="Georgia State University, B.S. in Computer Science, expected May 2027" /></picture>
-
-<br />
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-me-dark.svg" /><img src="assets/h-contact-me-light.svg" alt="Contact Me" /></picture>
 
 <a href="mailto:colby.threlkeld1@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-email-dark.svg" /><img src="assets/t-email-light.svg" alt="Email: colby.threlkeld1@gmail.com" /></picture></a><br />
