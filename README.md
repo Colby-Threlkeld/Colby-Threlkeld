@@ -1,13 +1,16 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
+    <img src="name-light.svg" width="640" alt="Colby Threlkeld" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bits-dark.svg" />
     <img src="bits-light.svg" width="520" alt="Animated character art drawn in binary digits" />
   </picture>
-  <br />
-  <sub>art: Demini X Art</sub>
 </p>
-
-<h1 align="center">Hi, I'm Colby Threlkeld</h1>
 
 ##  Technical Skills -->
 
