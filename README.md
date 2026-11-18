@@ -1,74 +1,44 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
-    <img src="name-light.svg" width="460" alt="Colby Threlkeld" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg" /><img src="assets/name-light.svg" alt="Colby Threlkeld" width="460" /></picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="bits-dark.svg" />
-    <img src="bits-light.svg" width="520" alt="Animated character art drawn in binary digits" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bits-dark.svg" /><img src="assets/bits-light.svg" alt="Animated character art drawn in binary digits" width="520" /></picture>
 </p>
 
-##  Technical Skills -->
+<br />
 
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-technical-skills-dark.svg" /><img src="assets/h-technical-skills-light.svg" alt="Technical Skills" /></picture>
 
-### 🔹 Frameworks / Libraries 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-languages-dark.svg" /><img src="assets/s-languages-light.svg" alt="Languages" /></picture><br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-languages-dark.svg" /><img src="assets/b-languages-light.svg" alt="Python, JavaScript, HTML5, CSS3, SQL" /></picture>
 
-### 🔹 Development Tools / Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-frameworks-libraries-dark.svg" /><img src="assets/s-frameworks-libraries-light.svg" alt="Frameworks / Libraries" /></picture><br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-frameworks-dark.svg" /><img src="assets/b-frameworks-light.svg" alt="React, Express.js, Pandas, NumPy, Matplotlib, Scikit-learn" /></picture>
 
-### 🔹 IDE 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-development-tools-platforms-dark.svg" /><img src="assets/s-development-tools-platforms-light.svg" alt="Development Tools / Platforms" /></picture><br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-tools-dark.svg" /><img src="assets/b-tools-light.svg" alt="MongoDB, Node.js, Postman, Tableau, Git, GitHub, WordPress, Netlify" /></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-ide-dark.svg" /><img src="assets/s-ide-light.svg" alt="IDE" /></picture><br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-ide-dark.svg" /><img src="assets/b-ide-light.svg" alt="VS Code, Jupyter, PyCharm, IntelliJ" /></picture>
 
-## Clubs & Involvement (@Georgia State University) -->
+<br />
 
-- PROGSU (Executive Board)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-clubs-involvement-dark.svg" /><img src="assets/h-clubs-involvement-light.svg" alt="Clubs & Involvement at Georgia State University" /></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-progsu-dark.svg" /><img src="assets/t-progsu-light.svg" alt="PROGSU, Executive Board" /></picture>
 
-## Contact Me -->
+<br />
 
-- 📧 Email: [colby.threlkeld1@gmail.com](mailto:colby.threlkeld1@gmail.com)
-  
-- 🌐 LinkedIn: [linkedin.com/in/colby-threlkeld-543b06301](https://www.linkedin.com/in/colby-threlkeld-543b06301/)  
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-me-dark.svg" /><img src="assets/h-contact-me-light.svg" alt="Contact Me" /></picture>
 
----
+<a href="mailto:colby.threlkeld1@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-email-dark.svg" /><img src="assets/t-email-light.svg" alt="Email: colby.threlkeld1@gmail.com" /></picture></a><br />
+<a href="https://www.linkedin.com/in/colby-threlkeld-543b06301/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-linkedin-dark.svg" /><img src="assets/t-linkedin-light.svg" alt="LinkedIn: linkedin.com/in/colby-threlkeld-543b06301" /></picture></a>
 
-## GitHub Stats -->
+<br />
 
-<table align="center">
-  <tr>
-    <p align="center">
-      <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" width="450" /><br>
-    </p>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-github-stats-dark.svg" /><img src="assets/h-github-stats-light.svg" alt="GitHub Stats" /></picture>
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=dark&hide_border=true&background=0D1117" /><img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default&hide_border=true" alt="GitHub Streak" width="450" /></picture>
+</p>
