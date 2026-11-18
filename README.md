@@ -1,3 +1,22 @@
+<img src="bits.svg" align="left" width="330" alt="Animated figure drawn in binary digits" />
+
+## Hi, I'm Colby Threlkeld
+
+**Georgia State University** · PROGSU Executive Board
+
+```text
+Languages  Python, JavaScript, SQL, HTML, CSS
+Web        React, Express, Node.js
+Data       Pandas, NumPy, scikit-learn, Matplotlib, Tableau
+Tools      Git, MongoDB, Postman, Netlify, WordPress
+```
+
+[LinkedIn](https://www.linkedin.com/in/colby-threlkeld-543b06301/)
+
+<br clear="left" />
+
+---
+
 ##  Technical Skills -->
 
 ### 🔹 Languages
