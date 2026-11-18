@@ -35,7 +35,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-technical-skills-dark.svg" /><img src="assets/h-technical-skills-light.svg" alt="Technical Skills" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-languages-dark.svg" /><img src="assets/s-languages-light.svg" alt="Languages" /></picture><br />
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-languages-dark.svg" /><img src="assets/b-languages-light.svg" alt="Python, JavaScript, TypeScript, C, Java, SQL, HTML, CSS, SCSS, R" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-langs-dark.svg" /><img src="assets/b-langs-light.svg" alt="Python, JavaScript, TypeScript, C, Java, SQL, HTML, CSS, SCSS, R" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-frontend-dark.svg" /><img src="assets/s-frontend-light.svg" alt="Frontend" /></picture><br />
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-frontend-dark.svg" /><img src="assets/b-frontend-light.svg" alt="React, Next.js, Tailwind CSS, Figma, WordPress" /></picture>
