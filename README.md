@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="name.svg" width="680" alt="Colby Threlkeld" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
+    <img src="name-light.svg" width="460" alt="Colby Threlkeld" />
+  </picture>
 </p>
 
 <p align="center">
