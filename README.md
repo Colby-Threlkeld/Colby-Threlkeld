@@ -1,7 +1,7 @@
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg" /><img src="assets/name-light.svg" alt="Colby Threlkeld" width="460" /></picture>
   <br />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg" /><img src="assets/tagline-light.svg" alt="Computer Science at Georgia State · Former Software Engineer Intern at Apple" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg" /><img src="assets/tagline-light.svg" alt="Computer Science at Georgia State · Software Engineer Intern at Apple" /></picture>
 </p>
 
 <p align="center">
